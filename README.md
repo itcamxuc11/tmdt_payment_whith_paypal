@@ -1,1 +1,1 @@
-# tmdt_payment_whith_paypal
+# tmdt_payment_with_paypal
